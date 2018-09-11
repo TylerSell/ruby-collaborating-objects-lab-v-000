@@ -34,6 +34,6 @@ class Artist
   end
   
   def self.find(name)
-    self.all.detect {|
+    self.all.detect {|artist| 
 end
   
