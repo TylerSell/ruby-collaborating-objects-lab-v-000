@@ -20,5 +20,8 @@ class Artist
   def songs 
     @songs 
   end
+  
+  def save 
+    
 end
   
