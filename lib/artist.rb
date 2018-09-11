@@ -32,5 +32,8 @@ class Artist
       song.name 
     end
   end
+  
+  def self.find(name)
+    
 end
   
